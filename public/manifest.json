@@ -1,0 +1,12 @@
+{
+  "short_name": "MediCare",
+  "name": "MediCare — Your Health, Our Priority",
+  "description": "Book appointments with verified specialist doctors.",
+  "icons": [
+    { "src": "favicon.ico", "sizes": "64x64 32x32 24x24 16x16", "type": "image/x-icon" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#C8272D",
+  "background_color": "#ffffff"
+}
